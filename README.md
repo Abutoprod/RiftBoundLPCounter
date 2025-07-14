@@ -1,6 +1,6 @@
 # 🃏 RiftboundLPCounter
 
-O **Riftbound Scorekeeper** é um marcador de pontos especialmente desenvolvido para o jogo de cartas **Riftbound**. Pensando na melhor experiência para os jogadores, nosso app é **totalmente gratuito** e **livre de anúncios**, garantindo praticidade e facilidade no acompanhamento das partidas.
+O **RiftboundLPCounter** é um marcador de pontos especialmente desenvolvido para o jogo de cartas **Riftbound**. Pensando na melhor experiência para os jogadores, nosso app é **totalmente gratuito** e **livre de anúncios**, garantindo praticidade e facilidade no acompanhamento das partidas.
 
 ## 🚀 Funcionalidades
 
@@ -13,13 +13,13 @@ O **Riftbound Scorekeeper** é um marcador de pontos especialmente desenvolvido 
 Atualmente, algumas funcionalidades estão temporariamente desabilitadas, mas já planejadas para as próximas atualizações:
 
 - 🎲 **Modo mesa**: marcar pontos de até 4 jogadores simultaneamente.
-- 😄 **Piadas nas telas de vitória e derrota**.
+- 😄 **Escolha das Piadas nas telas de vitória e derrota**.
 
 Esses recursos serão habilitados em breve para tornar suas partidas ainda mais divertidas!
 
 ## 💖 Apoie o projeto
 
-O Riftbound Scorekeeper conta com uma área dedicada a **doações**, onde você pode contribuir para o desenvolvimento contínuo do app. Assim, ajudamos a manter o projeto sempre atualizado e cheio de novidades para a comunidade.
+O RiftboundLPCounter conta com uma área dedicada a **doações**, onde você pode contribuir para o desenvolvimento contínuo do app. Assim, ajudamos a manter o projeto sempre atualizado e cheio de novidades para a comunidade.
 
 ## ⚠️ Avisos
 
